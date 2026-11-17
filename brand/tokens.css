@@ -1,0 +1,37 @@
+/* LeoLend brand tokens — sourced from leolend.com. Every OUTREACH app imports this file; do not redefine colours locally. */
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+:root {
+  /* surfaces */
+  --ll-bg: #0d1f17;        /* forest — page background */
+  --ll-bg-deep: #0a1d14;   /* footer / wells */
+  --ll-card: #1a3a28;      /* cards, panels */
+  --ll-border: #53472d;    /* gold-tinted hairline */
+
+  /* gold — the brand colour */
+  --ll-gold: #c9a840;      /* primary: buttons, links, accents */
+  --ll-gold-bright: #e0b94b; /* hover / highlights */
+  --ll-gold-deep: #8a7440; /* gold on light surfaces */
+
+  /* text */
+  --ll-text: #e8e8e8;
+  --ll-text-soft: #c0cfc5;
+  --ll-text-muted: #8a9a8e;
+  --ll-text-faint: #556b5a; /* legal line */
+
+  /* light surfaces (email bodies, print) */
+  --ll-cream: #e6e1d8;
+  --ll-ink: #1a1a1a;
+
+  /* status */
+  --ll-success: #8fd6a8;
+  --ll-danger: #de5454;
+
+  /* type */
+  --ll-font-display: "Archivo Black", "Arial Black", sans-serif;
+  --ll-font-body: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --ll-font-accent: "Space Grotesk", "Inter", sans-serif;
+  --ll-font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --ll-radius: 0.75rem;
+}
