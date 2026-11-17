@@ -28,7 +28,7 @@ Forest and gold only. Gold is for action and emphasis; never use it for long bod
 - Labels / numbers: **Space Grotesk** 500–700, wide tracking for eyebrow labels.
 
 ## Logo
-- `brand/logo.png` — LLG lion roundel (247×272, transparent). Keep clear space of at least a quarter of its width; never recolour or stretch.
+- `brand/logo-round.png` — LLG lion roundel, transparent background. Default on every surface. `brand/logo.png` is the original on a white square. Keep clear space of at least a quarter of its width; never recolour or stretch.
 - `brand/icon.png` — small mark for tight spaces.
 
 ## Required legal line
